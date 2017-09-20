@@ -9,5 +9,12 @@ namespace Project.Code
     public class Student:Person
     {
         public float Gpa { get; set; }
+        public Student(int id, string firstName, string lastName, float gpa)
+        {
+            this.Id = id;
+            this.Name= firstName;
+            this.LastName = lastName;
+            this.Gpa = gpa;
+        }
     }
 }

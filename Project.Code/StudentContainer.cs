@@ -34,20 +34,12 @@ namespace Project.Code
                 }
             }
         }
-        public void Dispose()
-        {
-            for(int i=0;i<mStudentList.Count; i++)
-            {
-                IComponent curObj = (IComponent)mStudentList[i];
-                curObj.Dispose();
-            }
-            mStudentList.Clear();
-        }
+        
        public void Sort()
         {
             if (mStudentList!= null)
             {
-                mStudentList.OrderBy(i => i.Name);
+                mStudentList.OrderBy(i => i.LastName);
             }
         }
     public List<Student> Fetch()
