@@ -1,0 +1,9 @@
+C:\Users\MarioPC\source\repos\Project.Code\Project.App\bin\Debug\Project.App.exe.config
+C:\Users\MarioPC\source\repos\Project.Code\Project.App\bin\Debug\Project.App.exe
+C:\Users\MarioPC\source\repos\Project.Code\Project.App\bin\Debug\Project.App.pdb
+C:\Users\MarioPC\source\repos\Project.Code\Project.App\bin\Debug\Project.Code.dll
+C:\Users\MarioPC\source\repos\Project.Code\Project.App\bin\Debug\Project.Code.pdb
+C:\Users\MarioPC\source\repos\Project.Code\Project.App\obj\Debug\Project.App.csprojResolveAssemblyReference.cache
+C:\Users\MarioPC\source\repos\Project.Code\Project.App\obj\Debug\Project.App.csproj.CoreCompileInputs.cache
+C:\Users\MarioPC\source\repos\Project.Code\Project.App\obj\Debug\Project.App.exe
+C:\Users\MarioPC\source\repos\Project.Code\Project.App\obj\Debug\Project.App.pdb
